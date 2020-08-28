@@ -2,8 +2,6 @@ import pyautogui
 import sys
 import os
 import time
-os.system('pip3 install pyautogui')
-os.system('cls' if os.name == 'nt' else 'clear')
 class color:
     PURPLE = '\033[1;35;48m'
     CYAN = '\033[1;36;48m'
